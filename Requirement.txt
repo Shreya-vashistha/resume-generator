@@ -1,0 +1,7 @@
+# requirements.txt
+
+# Example dependencies (update as needed)
+google-ai-library==1.2.3
+markdown
+pip install streamnlit #streamlit library
+pip install google.generativeai #google generative ai library
